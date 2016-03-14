@@ -1,0 +1,28 @@
+name: accounts@mannellmotors.com.au
+favicon: null
+layout_spectrum: 0.339525688206777
+typography_spectrum: 0.6588937966153026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8759695815388113
+  lightness: 0.7635753385256976
+  saturation: 0.3190872040577233
+  rhythmicContrast: 0.16006317734718323
+purpose: []
